@@ -20,7 +20,7 @@ This project implements a simple FastAPI service that manages multiple Large Lan
 Clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/llm_service.git
+git clone https://github.com/BohdanDatsko/llm_service.git
 cd llm_service
 python -m venv .venv
 source .venv/bin/activate
