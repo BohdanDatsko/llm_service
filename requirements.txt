@@ -1,0 +1,8 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.6.0
+pydantic-settings>=2.3.0
+python-dotenv>=1.0.0
+openai>=1.10.0  # Optional: only needed for the OpenAI client
+google-generativeai>=0.8.5 # Optional: only needed for the Google Gemini client
+anthropic==0.66.0 # Optional: only needed for the Anthropic Claude client
